@@ -1,0 +1,24 @@
+{
+  "name": "machinejs",
+  "version": "0.0.1",
+  "private": true,
+  "description": "Light-weight and easy to use implememtation of Finite State Machine",
+  "devDependencies": {
+    "jshint": "latest",
+    "lodash": "latest",
+    "requirejs": "latest",
+    "should": "latest",
+    "jasmine": "latest"
+  },
+  "scripts": {
+  },
+  "directories": {
+    "test": "spec"
+  },
+  "keywords": [
+    "fsm",
+    "js"
+  ],
+  "author": "udalovas",
+  "license": "ISC"
+}
