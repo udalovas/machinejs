@@ -8,6 +8,7 @@ function StateMachine() {
 
     self.addState = function(state) {
         _states.push(state);
+        return self;
     };
 
     self.hasState = function(stateId) {
